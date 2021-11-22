@@ -19,7 +19,7 @@ setup(
     install_requires=[
         "packaging",
         "keras-tuner==1.1.0rc0",
-        "tf-nightly==2.8.0.dev20211016",
+        "tf-nightly-gpu==2.8.0.dev20211016",
         "scikit-learn",
         "pandas",
     ],
